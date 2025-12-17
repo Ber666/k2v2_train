@@ -1,0 +1,227 @@
+[
+    {
+        "name" : "self-identity",
+        "weight": -4,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "self-identity",
+        "weight": -4,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "self-identity",
+        "weight": -4,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "self-identity-extended",
+        "weight": -4,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "self-identity-extended",
+        "weight": -4,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "self-identity-extended",
+        "weight": -4,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "uae-safety",
+        "weight": -4,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "uae-safety",
+        "weight": -4,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "uae-safety",
+        "weight": -4,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "nemotron-safety",
+        "weight": -4,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "nemotron-safety",
+        "weight": -4,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "nemotron-safety",
+        "weight": -4,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "adversarial-safety",
+        "weight": -4,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "adversarial-safety",
+        "weight": -4,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "adversarial-safety",
+        "weight": -4,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "json-constraints",
+        "weight": -3,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "tools-new",
+        "weight": -1,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "tool-calling-xlam-high",
+        "weight": -2,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "tool-calling-xlam-medium",
+        "weight": -2,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "tool-calling-xlam-low",
+        "weight": -2,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "tool-calling-nemotron-v1",
+        "weight": -1,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "code-agentic-commitpackft",
+        "weight": -1,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "stem-v1-high",
+        "weight": -1,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "stem-v1-medium",
+        "weight": -1,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "stem-v1-low",
+        "weight": -1,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "code-v1-high",
+        "weight": 0.14,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "code-v1-medium",
+        "weight": 0.1225,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "code-v1-low",
+        "weight": 0.0875,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "chat-v1-high",
+        "weight": 0.068,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "chat-v1-medium",
+        "weight": 0.0595,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "chat-v1-low",
+        "weight": 0.0425,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "constraints-high",
+        "weight": 0.052,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "constraints-medium",
+        "weight": 0.0455,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "constraints-low",
+        "weight": 0.0325,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "nemotron-stem-high",
+        "weight": 0.04,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "nemotron-stem-medium",
+        "weight": 0.035,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "nemotron-stem-low",
+        "weight": 0.025,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "math-v1-high",
+        "weight": 0.036,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "math-v1-medium",
+        "weight": 0.0615,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "math-v1-low",
+        "weight": 0.0225,
+        "reasoning_effort": "low"
+    },
+    {
+        "name" : "math-dialogue-mt-high",
+        "weight": 0.048,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "math-dialogue-mt-medium",
+        "weight": 0.042,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "teacher-as-assistant-high",
+        "weight": 0.016,
+        "reasoning_effort": "high"
+    },
+    {
+        "name" : "teacher-as-assistant-medium",
+        "weight": 0.014,
+        "reasoning_effort": "medium"
+    },
+    {
+        "name" : "teacher-as-assistant-low",
+        "weight": 0.01,
+        "reasoning_effort": "low"
+    }
+]
